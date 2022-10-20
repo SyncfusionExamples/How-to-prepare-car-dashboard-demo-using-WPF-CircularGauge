@@ -1,6 +1,6 @@
 # How to prepare car dashboard demo using WPF CircularGauge
 
-This repository contains sample for how to prepare car dashboard demo using the [Syncfusion WPF Circular Gauge](https://help.syncfusion.com/wpf/radial-gauge/getting-started) control.
+This repository contains sample to prepare car dashboard demo using the [Syncfusion WPF Circular Gauge](https://help.syncfusion.com/wpf/radial-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/2391/how-to-prepare-car-dashboard-demo-using-sfcirculargauge).
 
